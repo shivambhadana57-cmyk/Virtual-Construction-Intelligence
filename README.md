@@ -5,6 +5,12 @@ A Power BI analytics project for exploring NYC capital construction schedule per
 
 This project uses historical construction schedule records to explore reported schedule variance, compare managing agencies, and analyse trends across reporting periods.
 
+Dataset
+
+Capital Projects Dashboard – Citywide Schedule History and Variance
+
+View the official dataset on NYC Open Data
+
 ## Tools & Technologies
 - Microsoft Power BI Desktop
 - Power Query
